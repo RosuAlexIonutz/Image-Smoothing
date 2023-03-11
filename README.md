@@ -1,0 +1,1 @@
+The purpose of this project is to apply a smoothing effect over a picture that is contained in a JSON obtained from API DOG. During this project, I improved both my Javascript knowledge and attention to details, in order to better illustrate the application of the effect compared to the original picture.
